@@ -4,6 +4,8 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+
   </PropertyGroup>
 
   <ItemGroup>
@@ -18,3 +20,4 @@
   </ItemGroup>
 
 </Project>
+
